@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="Tess4J/dist/tess4j.jar"/>
+	<classpathentry kind="lib" path="Tess4J/lib/jna.jar"/>
+	<classpathentry kind="lib" path="Tess4J/lib/jai_imageio.jar"/>
+	<classpathentry kind="lib" path="webcam-capture/webcam-capture-0.3.10-RC6.jar"/>
+	<classpathentry kind="lib" path="webcam-capture/libs/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="webcam-capture/libs/bridj-0.7-20131007.003529-54.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
